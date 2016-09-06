@@ -1,2 +1,2 @@
 # exercism-go
-Exercises solution for http://exercism.io/exercises/go/
+Exercises solution for http://exercism.io/languages/go/exercises
